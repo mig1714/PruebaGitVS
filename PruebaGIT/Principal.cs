@@ -9,9 +9,11 @@ namespace PruebaGIT
     {
         static public void Main(String[] args)
         {
-            Console.WriteLine("Hola Git");
+            Console.WriteLine("Hola Git");//Tiene un error y no lo ejecuta
             Console.ReadLine();
         }
+
+
 
     }
 }
