@@ -9,7 +9,7 @@ namespace PruebaGIT
     {
         static public void Main(String[] args)
         {
-            Console.WriteLine("Hola Git");
+            Console.WriteLine("Hola Git");//error desde rama
             Console.ReadLine();
         }
 
